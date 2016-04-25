@@ -1,0 +1,4 @@
+deps.jl
+src/*.o
+src/*.so
+usr
